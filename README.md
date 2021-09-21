@@ -10,3 +10,10 @@ Haar Feature Selection
 Creating Intergal Images
 Adaboost Training
 Cascading Classifiers
+
+# WHO I AM ?
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded. 
+
+# Other Useful Links:
+https://www.linkedin.com/in/narmada-ugale-b411a61ab/
+
