@@ -7,8 +7,11 @@ It is a machine learning algorithm used to identify objects in image or video ba
 
 # The algorithm contains four stages:
 1)Haar Feature Selection
+
 2)Creating Intergal Images
+
 3)Adaboost Training
+
 4)Cascading Classifiers
 
 # WHO I AM ?
