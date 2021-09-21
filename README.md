@@ -6,10 +6,10 @@ Open source computer vision library is an open source computer vision and machin
 It is a machine learning algorithm used to identify objects in image or video based on the concepts of features proposed by Paul Viola and Michael Jones in 2001.
 
 # The algorithm contains four stages:
-Haar Feature Selection
-Creating Intergal Images
-Adaboost Training
-Cascading Classifiers
+1)Haar Feature Selection
+2)Creating Intergal Images
+3)Adaboost Training
+4)Cascading Classifiers
 
 # WHO I AM ?
 My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded. 
